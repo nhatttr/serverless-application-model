@@ -1,6 +1,5 @@
 
-# Serverless-application-model - introduction
-
+# Serverless-application-model-introduction
 
 AWS SAM (Serverless Application Model) là một open-source framework giúp Developer dễ dàng build và deploy serverless applications trên AWS
 
@@ -25,5 +24,6 @@ sam deploy - command to deploy your serverless application to the AWS Cloud.
 sam delete - command cho phép xóa resource của serverless application bằng cách xóa Cloudformation stack
 
 
-URL: 
+URL:
+
 https://blog.cloudmentor.pro/blog/aws-dva/create-build-and-deploy-a-sample-hello-world-app-using-aws-sam#1-create-an-aws-cloud9-development-environment
