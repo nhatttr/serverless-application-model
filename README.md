@@ -13,3 +13,4 @@ sam build - chuẩn bị serverless application cho quy trình deployment tiếp
 sam deploy - command to deploy your serverless application to the AWS Cloud.
 sam delete - command cho phép xóa resource của serverless application bằng cách xóa Cloudformation stack
 
+https://blog.cloudmentor.pro/blog/aws-dva/create-build-and-deploy-a-sample-hello-world-app-using-aws-sam#1-create-an-aws-cloud9-development-environment
